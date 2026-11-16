@@ -2,7 +2,7 @@ $py.class
 *.so
 .Python
 env/
-.env           # Where database passwords are stored
+.env
 venv/          # Virtual environment for testing
 .venv
 

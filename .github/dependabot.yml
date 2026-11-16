@@ -1,0 +1,7 @@
+# Keep the club management backend's Python dependencies up to date
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"

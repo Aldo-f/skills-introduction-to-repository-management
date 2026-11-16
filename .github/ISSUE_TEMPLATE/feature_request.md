@@ -1,4 +1,4 @@
-<!-- .github/ISSUE_TEMPLATE/feature-request.md -->
+<!-- .github/ISSUE_TEMPLATE/feature_request.md -->
 name: Feature request
 about: Suggest an idea for this project
 title: ''
